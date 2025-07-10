@@ -1,0 +1,7 @@
+D:\Final Project Pemrograman\Penghitung luas bangun datar\Penghitung luas bangun datar\bin\Debug\Penghitung luas bangun datar.exe.config
+D:\Final Project Pemrograman\Penghitung luas bangun datar\Penghitung luas bangun datar\bin\Debug\Penghitung luas bangun datar.exe
+D:\Final Project Pemrograman\Penghitung luas bangun datar\Penghitung luas bangun datar\bin\Debug\Penghitung luas bangun datar.pdb
+D:\Final Project Pemrograman\Penghitung luas bangun datar\Penghitung luas bangun datar\obj\Debug\Penghitung luas bangun datar.csproj.AssemblyReference.cache
+D:\Final Project Pemrograman\Penghitung luas bangun datar\Penghitung luas bangun datar\obj\Debug\Penghitung luas bangun datar.csproj.CoreCompileInputs.cache
+D:\Final Project Pemrograman\Penghitung luas bangun datar\Penghitung luas bangun datar\obj\Debug\Penghitung luas bangun datar.exe
+D:\Final Project Pemrograman\Penghitung luas bangun datar\Penghitung luas bangun datar\obj\Debug\Penghitung luas bangun datar.pdb
